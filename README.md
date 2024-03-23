@@ -1,26 +1,28 @@
-# disney-account-checker
-disney+ account checker 👀 , fast! 
-proxy required (free proxies works!) 
+# Disney-Account-Checker
 
+Disney+ account checker 👀, fast! Proxy required (free proxies work!)
 
-#### INSTALL THE IMORTANT MODUES
-run `pip install requirements.txt`.
+## INSTALL THE IMPORTANT MODULES
+Run `pip install requirements.txt`.
 
-#### SETTING UP PROXY
-put your proxies in valid.txt
+## SETTING UP PROXY
+Put your proxies in `valid.txt`.
 
-note :-**only put working ones if you put bad ones checker will not work.**
+**Note:** Only put working ones. If you put bad ones, the checker will not work.
 
-to get valid proxies
-put all proxies in pro.txt
-now run `python proxy.py`
-you will now have good proxies in valid.txt ez.
+To get valid proxies:
+1. Put all proxies in `pro.txt`.
+2. Run `python proxy.py`.
+3. You will now have good proxies in `valid.txt` easily.
 
-#### SETTING UP ACCOUNTS
-put your accounts on acc.txt
+## SETTING UP ACCOUNTS
+Put your accounts in `acc.txt`.
 
+## RUN THE MAIN FILE
+Run `python main.py`.
 
-#### RUN THE MAIN FILE
-run `python main.py`
+Good accounts will be in the `checked` folder.
 
-good account will be in 
+### IT'S FOR EDUCATIONAL PURPOSES ONLY; I DO NOT ACCEPT ANY RESPONSIBILITY IF ANY PROBLEMS ARISE.
+
+HAPPY CODING! <3
